@@ -23,5 +23,5 @@ const APP_CONFIG = {
 
     // Nome do app (aparece no título da página e no PWA)
     APP_NOME: 'Inventário SME',
-    APP_NOME_CURTO: 'Inventário',
+    APP_NOME_CURTO: 'Inventário SME',
 };
